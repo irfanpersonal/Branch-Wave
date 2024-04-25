@@ -17,7 +17,7 @@ Welcome to Branch Wave, your all-in-one solution for organizing and sharing your
 
 2nd - Run the following command "npm install" (install dependencies)
 
-3rd - Now create a .env file in the root of your entire project with the following key value pairs: MYSQL_USER, MYSQL_USER_PASSWORD, JWT_SECRET, JWT_LIFETIME, CLOUD_NAME, CLOUD_API_KEY, CLOUD_API_SECRET, and STRIPE_SECRET_KEY
+3rd - Now create a .env file in the root of your entire project with the following key value pairs: MYSQL_USER, MYSQL_USER_PASSWORD, JWT_SECRET, JWT_LIFETIME, CLOUD_NAME, CLOUD_API_KEY, and CLOUD_API_SECRET.
 
 Note: The cloud values must be from Cloudinary, which is where we host our images.
 
